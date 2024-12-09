@@ -112,6 +112,9 @@ void loop() {
         servo3.write(servo3PosSaves[i]);
         Serial.println(" potentimeter Angles: ");
         Serial.println(servo1PosSaves[i]);
+
+
+// creating a new branch        
         Serial.println(servo2PosSaves[i]);
         Serial.println(servo3PosSaves[i]);
         delay(1050);
