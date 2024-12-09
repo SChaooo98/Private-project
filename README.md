@@ -1,4 +1,4 @@
-//Original code by Ryan Chan. Updated code by MilesPeterson101 Thanks  to Ryan Chan for the concept!
+
 #include <Servo.h>
 
 Servo servo1; //Servos
